@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this sctipt, please cite it as below."
+authors:
+- family-names: "Lin"
+  given-names: "Pei-Yu"
+  orcid: "https://orcid.org/0000-0003-0255-5467"
+title: "NGS_analyses"
+version: beta.0.1
+date-released: 2023-05-01
+url: "https://github.com/beritlin/NGS_analyses"
