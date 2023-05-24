@@ -1,7 +1,3 @@
----
-title: DNA Methylation Analyses
----
-
 ## Background
 
 <p align="center">
@@ -59,7 +55,7 @@ in which I have a R script for Calculating conversion rate `coversion_rate.R`
 Rscript coversion_rate.R  lambda_WT_out.CGmap.gz
 ```
 
-### Step4: Visualisation
+<!-- ### Step4: Visualisation
 #### DNA methylation profiles 
 The tool MethGO is able to plot the basic charts for methylation levels.
 ```
@@ -67,4 +63,4 @@ methgo met gene.gtf genome.fa demo.CGmap
 ```
 Three figures will be plotted including a DNA methylation bar chart demo.bulk.mean.png for three different content (CG, CHG, and CHH); a meta plot for methylation levels along chromosomes demo.genomewide.png; and a histogram for methylation levels distribution demo.bulk.hist.png.
 
-### Step4: Identify DMRs and DMGs
+### Step4: Identify DMRs and DMGs -->
