@@ -72,7 +72,10 @@ An example form is downloaded on the date 2024.01.04.
 
 ### Step4: Submit your data
 After finishing data transfer, go to the next box, **Upload metadata**,nd upload the selected subfolder, metadata sheet, and choose a release date. 
+
 ![](https://github.com/beritlin/NGS_analyses/blob/main/Figure/GEO_13.png)
+
+
 Finally, click **Submit**! Then you will receive an email if the upload is successful.
 
 ![](https://github.com/beritlin/NGS_analyses/blob/main/Figure/GEO_12.png)
