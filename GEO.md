@@ -16,9 +16,16 @@ Visit the [ NCBI homepage](https://www.ncbi.nlm.nih.gov/) and navigate to **Subm
 
 Scroll down to **Other Toools** and locate the **GEO** box.
 
+![](https://github.com/beritlin/NGS_analyses/blob/main/Figure/GEO_2.png)
+
 Select the data type that you want to upload (e.g., NGS data) and click the **Submit high-throughput sequencing**.
 
+![](https://github.com/beritlin/NGS_analyses/blob/main/Figure/GEO_3.png)
+
+
 Then, select **Raw data files**.
+
+
 
 Run an md5 check for data integrity during transfer, the md5 should also be provided to GEO.
 
@@ -30,7 +37,12 @@ md5sum *.fastq.gz > md5.txt
 There are two steps for GEO submission. 
 GEO submission involves two steps. Firstly, transfer all your files to the GEO server. Navigate to **Transfer Files**.
 
+![](https://github.com/beritlin/NGS_analyses/blob/main/Figure/GEO_4.png)
+
 Login to NCBI and GEO would then assign the path for data uploading in their **step 1.** protocal, as well as the FTP username & password in **step 2.**.
+![](https://github.com/beritlin/NGS_analyses/blob/main/Figure/GEO_8.png)
+![](https://github.com/beritlin/NGS_analyses/blob/main/Figure/GEO_9.png)
+
 
 Multiple options are available for dataset upload. Here, I recommend using SFTP for transferring data from local to another server.
 
@@ -54,11 +66,14 @@ put md5.txt
 Download the latest Metadata form and complete all the required (labeled in **) cells. 
 An example form is downloaded on the date 2024.01.04.
 
-
+![](https://github.com/beritlin/NGS_analyses/blob/main/Figure/GEO_10.png)
+![](https://github.com/beritlin/NGS_analyses/blob/main/Figure/GEO_11.png)
 
 
 ### Step4: Submit your data
 After finishing data transfer, go to the next box, **Notify GEO**,nd upload the selected subfolder, metadata sheet, and choose a release date. 
+![](https://github.com/beritlin/NGS_analyses/blob/main/Figure/GEO_2.png)
+
 Finally, click **Submit**! Then you will receive an email if the upload is successful.
 
-
+![](https://github.com/beritlin/NGS_analyses/blob/main/Figure/GEO_12.png)
