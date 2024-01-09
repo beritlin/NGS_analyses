@@ -9,8 +9,11 @@ Essentially, the original sequencing data from articles is often required to be 
 
 ## Uploading your dataset
 ### Step1: Preparing your submission
+
 Visit the [ NCBI homepage](https://www.ncbi.nlm.nih.gov/) and navigate to **Submit** page.
-[!https://github.com/beritlin/NGS_analyses/blob/main/Figure/GEO_1.png]
+
+![](https://github.com/beritlin/NGS_analyses/blob/main/Figure/GEO_1.png)
+
 Scroll down to **Other Toools** and locate the **GEO** box.
 
 Select the data type that you want to upload (e.g., NGS data) and click the **Submit high-throughput sequencing**.
