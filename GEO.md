@@ -29,7 +29,7 @@ Then, select **Raw data files**.
 
 Run an md5 check for data integrity during transfer, the md5 should also be provided to GEO.
 
-```
+```bash
 md5sum *.fastq.gz > md5.txt
 ```
 
